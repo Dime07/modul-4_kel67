@@ -1,0 +1,13 @@
+F:\KULIAH\1.PRATIKUM DKP\modul 4\modul 4_kel67\percobaan c#\Modul4_kel67\bin\Debug\netcoreapp3.1\Modul4_kel67.exe
+F:\KULIAH\1.PRATIKUM DKP\modul 4\modul 4_kel67\percobaan c#\Modul4_kel67\bin\Debug\netcoreapp3.1\Modul4_kel67.deps.json
+F:\KULIAH\1.PRATIKUM DKP\modul 4\modul 4_kel67\percobaan c#\Modul4_kel67\bin\Debug\netcoreapp3.1\Modul4_kel67.runtimeconfig.json
+F:\KULIAH\1.PRATIKUM DKP\modul 4\modul 4_kel67\percobaan c#\Modul4_kel67\bin\Debug\netcoreapp3.1\Modul4_kel67.runtimeconfig.dev.json
+F:\KULIAH\1.PRATIKUM DKP\modul 4\modul 4_kel67\percobaan c#\Modul4_kel67\bin\Debug\netcoreapp3.1\Modul4_kel67.dll
+F:\KULIAH\1.PRATIKUM DKP\modul 4\modul 4_kel67\percobaan c#\Modul4_kel67\bin\Debug\netcoreapp3.1\Modul4_kel67.pdb
+F:\KULIAH\1.PRATIKUM DKP\modul 4\modul 4_kel67\percobaan c#\Modul4_kel67\obj\Debug\netcoreapp3.1\Modul4_kel67.csprojAssemblyReference.cache
+F:\KULIAH\1.PRATIKUM DKP\modul 4\modul 4_kel67\percobaan c#\Modul4_kel67\obj\Debug\netcoreapp3.1\Modul4_kel67.csproj.CoreCompileInputs.cache
+F:\KULIAH\1.PRATIKUM DKP\modul 4\modul 4_kel67\percobaan c#\Modul4_kel67\obj\Debug\netcoreapp3.1\Modul4_kel67.AssemblyInfoInputs.cache
+F:\KULIAH\1.PRATIKUM DKP\modul 4\modul 4_kel67\percobaan c#\Modul4_kel67\obj\Debug\netcoreapp3.1\Modul4_kel67.AssemblyInfo.cs
+F:\KULIAH\1.PRATIKUM DKP\modul 4\modul 4_kel67\percobaan c#\Modul4_kel67\obj\Debug\netcoreapp3.1\Modul4_kel67.dll
+F:\KULIAH\1.PRATIKUM DKP\modul 4\modul 4_kel67\percobaan c#\Modul4_kel67\obj\Debug\netcoreapp3.1\Modul4_kel67.pdb
+F:\KULIAH\1.PRATIKUM DKP\modul 4\modul 4_kel67\percobaan c#\Modul4_kel67\obj\Debug\netcoreapp3.1\Modul4_kel67.genruntimeconfig.cache
